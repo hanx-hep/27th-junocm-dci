@@ -1,0 +1,28 @@
+{
+    "name": "JUNO2026",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "slidev build",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hanx-hep/test.git"
+    },
+    "keywords": [
+        "diracx",
+        "juno",
+        "dci"
+    ],
+    "author": "Xiao Han",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hanx-hep/test/issues"
+    },
+    "homepage": "https://github.com/hanx-hep/test/readme",
+    "description": "",
+    "dependencies": {
+        "slidev-theme-neversink": "^0.4.0"
+    }
+}
